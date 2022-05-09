@@ -23,7 +23,7 @@
     THEN the password is either displayed in an alert or written to the page
 # Live URL
 
-https://delarosa0305.github.io/password-generator/
+https://delarosa0305.github.io/Password-Generator-v2/
 
 # Screenshots
 C:\Users\delar\Desktop\projects\Password-Generator-v2\assets\images\Screenshot 2022-05-08 225249.png
