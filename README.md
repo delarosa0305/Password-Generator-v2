@@ -26,8 +26,10 @@
 https://delarosa0305.github.io/password-generator/
 
 # Screenshots
-
-./Develop/images/Screenshot 2022-05-08 225249.png
-
+C:\Users\delar\Desktop\projects\Password-Generator-v2\assets\images\Screenshot 2022-05-08 225249.png
+C:\Users\delar\Desktop\projects\Password-Generator-v2\assets\images\Screenshot 2022-05-08 225336.png
+C:\Users\delar\Desktop\projects\Password-Generator-v2\assets\images\Screenshot 2022-05-08 225501.png
+C:\Users\delar\Desktop\projects\Password-Generator-v2\assets\images\Screenshot 2022-05-08 225123.png
 
 # Note
+All acceptance criteria have been met, code follows a logical structure and has been updated to generate password.
